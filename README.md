@@ -186,5 +186,3 @@ Visit [Nx Cloud](https://nx.app/) to learn more.
 ## Adding shared assets to an app
 
 [Shared assets library and nx.json - Nx Workspaces Course, by Nrwl](https://www.youtube.com/watch?v=LYjX2V-eQa8)
-
----
