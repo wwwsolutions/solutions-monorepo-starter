@@ -32,7 +32,6 @@ There are also many [community plugins](https://nx.dev/nx-community) you could a
 ## Generate an application
 
 Run `nx g @nrwl/react:app my-app` to generate an application.
-
 > You can use any of the plugins above to generate applications as well.
 
 When using Nx, you can create multiple applications and libraries in the same workspace.
@@ -58,6 +57,9 @@ Run `nx g @nrwl/react:component my-component --project=my-app` to generate a new
 Run `nx build my-app` to build the project. The build artifacts will be stored in the `dist/` directory. Use the `--prod` flag for a production build.
 
 ## Running unit tests
+
+---
+
 
 Run `nx test my-app` to execute the unit tests via [Jest](https://jestjs.io).
 
